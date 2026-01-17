@@ -75,7 +75,7 @@ Review with lowest score: 17
 ---
 
 ## Project Structure
-.
+
 ├── reviews.h  
 ├── reviews.cpp  
 ├── evaluateReviews.cpp  
