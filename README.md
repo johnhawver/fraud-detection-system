@@ -1,4 +1,4 @@
-#Keyword-Based Review Classifier (C++)
+# Keyword-Based Review Classifier (C++)
 
 ## Overview
 This project implements a lightweight Natural Language Processing (NLP) system that evaluates written reviews and classifies them as **truthful**, **deceptive**, or **uncategorized** using a keyword-weight scoring approach.
